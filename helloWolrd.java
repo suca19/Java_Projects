@@ -1,14 +1,6 @@
-
-public class helloWolrd {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    
-    }
-}
-
-
 // create a method that sums two numbers and returns the result
 public class helloWolrd {
+    
     public static void main(String[] args) {
         System.out.println("Hello World");
         int sum = sum(5, 10);
